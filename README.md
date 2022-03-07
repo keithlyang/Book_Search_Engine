@@ -8,6 +8,14 @@ https://github.com/keithlyang/Book_Search_Engine
 
 https://user-images.githubusercontent.com/95650841/157129714-af5c7af6-7e3f-44ba-b667-7018f6cd615f.mp4
 
+## Screenshots
+
+**Here are some of my searches!**
+
+https://user-images.githubusercontent.com/95650841/157131006-5f45a8b9-de6f-40a1-a3ef-214c8b2f51af.png
+
+https://user-images.githubusercontent.com/95650841/157131109-eda3cab6-0bed-4cd3-b6e0-086853b18393.png
+
 ## Description
 
 This application allows to user to search for new books to read so that they can keep a list of books to purchase
