@@ -16,7 +16,7 @@ This application allows to user to search for new books to read so that they can
 
 -When running in localhost, the user can search for books for future reading and/or purchase
 
-GIVEN a book search engine
+-GIVEN a book search engine
 WHEN I load the search engine
 THEN I am presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button
 WHEN I click on the Search for Books menu option
