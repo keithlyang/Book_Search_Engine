@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Jumbotron, Container, CardColumns, Card, Button } from 'react-bootstrap';
 import { useMutation, useQuery } from '@apollo/client';
-import { GET_ME } from '../src/utils/queries';
+import { GET_ME } from '../utils/queries';
 import { REMOVE_BOOK } from '../utils/mutation';
 import Auth from '../utils/auth';
 import { removeBookId } from '../utils/localStorage';
@@ -30,7 +30,7 @@ const SavedBooks = () => {
         }
 
         const user = await response.json();
-        setUserData(user);
+        getUserData(user);
       } catch (err) {
         console.error(err);
       }
